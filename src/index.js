@@ -1,5 +1,5 @@
 import express from "express"
-import { people } from "./people"
+import { people } from "./people.js"
  
 const app = express()
 const port = 3333
